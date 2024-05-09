@@ -26,12 +26,3 @@ vegetation types across different seasons using NOAA's climate data for the Four
 ### Data-Driven Narratives
 
 Creating a data-driven narrative involves merging statistical analysis with storytelling, presenting complex data through visuals and narratives to uncover patterns, answer questions, and influence decision-making. This narrative transforms raw data into a captivating, understandable story for a broad audience.
-
-### Project Components
-
-1. Data Acquisition: Download the relevant climate and vegetation datasets from NOAA and other pertinent sources.
-2. Data Preparation: Clean and preprocess the data to handle anomalies and combine datasets to form a holistic view of the climate-vegetation interaction.
-3. Exploratory Data Analysis (EDA): Conduct preliminary analyses to identify trends, distributions, and correlations between climate variables and vegetation cover.
-4. Visualization: Develop interactive visualizations to display the geographical distribution of vegetation, trends over time, and correlations with climate variables.
-5. Insight Generation: Analyze visual data to derive insights about the impact of climate variables on vegetation, identifying patterns of resilience and vulnerability.
-6. Reporting: Assemble a comprehensive report or dashboard presenting findings and visualizations, along with interpretations and recommendations for stakeholders such as ecologists, conservationists, and policymakers.

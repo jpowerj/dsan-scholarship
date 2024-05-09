@@ -1,7 +1,7 @@
 ---
 title: "2024 DSAN Scholarship Competition"
 subtitle: "Climate Change Data Visualization Project"
-author: "Dr. Purna Gamage"
+author: "DSAN Full-Time Faculty"
 date: 2024-05-09
 format:
   pdf:

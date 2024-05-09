@@ -1,6 +1,6 @@
 ---
 title: "DSAN Scholarship 2024"
-author: "Dr. Purna Gamage"
+author: "DSAN Full-Time Faculty"
 date: 2024-05-09
 format:
   html:
