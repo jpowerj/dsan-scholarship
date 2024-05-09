@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "DSAN Scholarship 2024"
+  navbar:
+    id: mainnav
+    left:
+      # - text: "<i class='bi bi-house-fill pe-1'></i> Home"
+      #   href: index.qmd
+      # - text: "Project Details"
+      #   href: project.qmd
+      - text: "Submission Form <i class='bi bi-box-arrow-up-right ps-1'></i>"
+        href: "./submit.html"
+        target: "_blank"
+
+format:
+  html:
+    theme: default
+    css: styles.css
+    toc: true
+

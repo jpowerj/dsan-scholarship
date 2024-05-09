@@ -1,0 +1,20 @@
+{
+  "index.qmd": {
+    "index.html": "99470073",
+    "index.md": "158fa041",
+    "index.tex": "f46c0a4f"
+  },
+  "project.qmd": {
+    "project.html": "a7f64850",
+    "project.tex": "a61e01ac"
+  },
+  "README.qmd": {
+    "README.md": "5dde01cb",
+    "README.html": "5f4bf1b8",
+    "README.tex": "0a38b19b"
+  },
+  "scholarship.qmd": {
+    "scholarship.html": "f18f2c7d",
+    "scholarship.tex": "8a657c22"
+  }
+}

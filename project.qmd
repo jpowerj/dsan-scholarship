@@ -1,0 +1,22 @@
+---
+title: "Analyzing Climate Change Impact on Vegetation Dynamics in the Four Corners Region"
+subtitle: "DSAN Scholarship Competition 2024: Data Visualization Project"
+author: "Dr. Purna Gamage"
+date: 2024-05-09
+tbl-cap-location: top
+format:
+  # html:
+  #   df-print: kable
+  #   html-math-method: mathjax
+  pdf:
+    output-file: "DSAN_Visualization_Project_2024.pdf"
+    # documentclass: article
+    # geometry:
+    #   - top=30mm
+    #   - left=20mm
+    #   - heightrounded
+    fontfamily: libertinus
+    # colorlinks: true
+---
+
+{{< include _project-content.qmd >}}

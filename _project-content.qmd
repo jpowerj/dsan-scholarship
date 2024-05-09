@@ -1,0 +1,37 @@
+## Project Overview
+
+This data visualization project entails crafting a compelling story about the dynamics of **vegetation cover** in relation to **climate change** using data from the <a href='https://www.usgs.gov/' target='_blank'>US Geological Survey (USGS)</a>.
+
+Specifically, students should start by familiarizing themselves with the USGS's historical data on the <a href='https://en.wikipedia.org/wiki/Natural_Bridges_National_Monument' target='_blank'>Natural Bridges National Monument (NBNM)</a>, which can be downloaded from <a href='https://doi.org/10.5066/P9O0FBVY' target='_blank'>this page</a>. The relevant data file from this page is contained in the compressed file `NABR_ClimExposure.7z`, which you can also download directly from the <a href='https://drive.google.com/drive/folders/1R9x_AL5xcOSUyhwB9SWpLiwgErsoF_uG?usp=drive_link' target='_blank'>Data Sets and Description</a> Google Drive folder (accessible to all `@georgetown.edu` email accounts).
+
+Students should then conduct exploratory data analyses, generate interactive visualizations, and distill insights on topics such as vegetation resilience, climate impact trends, and ecological sustainability.
+
+The project will culminate in a succinct, visually engaging, web-hosted report, **showcasing the findings** and **offering recommendations**. Projects will be judged based on creativity, clarity, and the effectiveness of communication, with an emphasis on visual storytelling and user engagement.
+
+### Requirements and Guidelines
+
+* Objective: Develop an in-depth data visualization project analyzing the impact of climate factors on various
+vegetation types across different seasons using NOAA's climate data for the Four Corners region.
+* Data Sources:
+    * Climate and Drought Data from NOAA
+    * Vegetation Cover Data linked to geographic and temporal variables
+* Narrative Approach: Utilize comprehensive data visualizations to craft a narrative that emphasizes visual storytelling over extensive written analysis.
+* Hosting: Present the project on an accessible website (georgetown domains or github).
+* Submission: Submit the project via a URL link.
+* Project Nature: This should be an individual, competitive, and anonymous project.
+* Ethics: Avoid plagiarism and duplication of other’s work. This includs use of large language models and automated data analysis tools. Please cite resources and the web links of every code used and cited.
+* Submission Policy: Late or multiple submissions will not be accepted.
+* Evaluation Criteria: Projects will be evaluated on visual aesthetics, interactivity, innovation, user experience, clarity of content, and originality.
+
+### Data-Driven Narratives
+
+Creating a data-driven narrative involves merging statistical analysis with storytelling, presenting complex data through visuals and narratives to uncover patterns, answer questions, and influence decision-making. This narrative transforms raw data into a captivating, understandable story for a broad audience.
+
+### Project Components
+
+1. Data Acquisition: Download the relevant climate and vegetation datasets from NOAA and other pertinent sources.
+2. Data Preparation: Clean and preprocess the data to handle anomalies and combine datasets to form a holistic view of the climate-vegetation interaction.
+3. Exploratory Data Analysis (EDA): Conduct preliminary analyses to identify trends, distributions, and correlations between climate variables and vegetation cover.
+4. Visualization: Develop interactive visualizations to display the geographical distribution of vegetation, trends over time, and correlations with climate variables.
+5. Insight Generation: Analyze visual data to derive insights about the impact of climate variables on vegetation, identifying patterns of resilience and vulnerability.
+6. Reporting: Assemble a comprehensive report or dashboard presenting findings and visualizations, along with interpretations and recommendations for stakeholders such as ecologists, conservationists, and policymakers.

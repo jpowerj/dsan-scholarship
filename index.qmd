@@ -1,0 +1,25 @@
+---
+title: "DSAN Scholarship 2024"
+author: "Dr. Purna Gamage"
+date: 2024-05-09
+format:
+  html:
+    df-print: kable
+    include-in-header:
+      text: "<link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css'>"
+    embed-resources: true
+  pdf:
+    df-print: kable
+    output-file: "DSAN_Scholarship_2024_Full.pdf"
+    # documentclass: article
+    # geometry:
+    #   - top=30mm
+    #   - left=20mm
+    #   - heightrounded
+    # fontfamily: libertinus
+    # colorlinks: true
+---
+
+{{< include _scholarship-content.qmd >}}
+
+{{< include _project-content.qmd >}}

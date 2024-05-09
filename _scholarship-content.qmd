@@ -1,0 +1,73 @@
+## Competition Overview
+
+Dear Students,
+
+We are happy to inform you that we will be awarding scholarships to returning students in Fall 2024! If you are interested in applying for a scholarship, please carefully read this document and follow the instructions. You are eligible to apply if you entered our program in Fall 2023. Accelerated program students are also eligible to apply.
+
+### Competitiveness
+
+* Scholarships will be awarded on a competitive basis, will be judged by a group of faculty, and will be anonymous.
+* By submitting a complete application, you become eligible. Not all applicants will be awarded scholarships.
+* For fairness and uniformity, it is not permitted to ask any questions of any kind to anyone.
+* All instructions are contained in this document and in the links included herein.
+
+### Due Date
+
+* The deadline to submit all required materials via the form is **Thursday, May 16th, 11:59pm EDT**.
+* It is not possible to be late or to resubmit. It will not be possible to edit a submission. It is not possible to ask questions from anyone.
+
+::: {.callout-warning title="LLMs and Generative AI Policy"}
+
+Do not use large-language model tools, such as ChatGPT, to create any of your content. Doing so will disqualify you from the competition.
+
+:::
+
+### Submission
+
+You can review the <a href='./submit.html' target='_blank'>submission form</a> anytime you wish so that you can see everything that is on it. So, it is OK to click this link and to review this form as many times as you wish. However, you can submit only once.
+Do not submit until you double check everything and are 100% ready. It is NOT possible to resubmit or to submit more than once.
+
+You must sign in via your Georgetown account to access these links. If you have any access issues, be sure you are properly logged into your Georgetown email and, if asked by the browser, that you log in with DUO.
+
+(You can review and read this form without submitting and it is a good idea to do so. Do not submit the form until you are ready. It is NOT possible to submit more than once.)
+
+You will be submitting a URL to your project.
+
+### Anonymity
+
+* When you submit, you will use ONLY your NetID. DO NOT place your name anywhere on your site (you can still
+use your Georgetown domain), your submission, etc.
+* The review committee will review each submission without knowing who submitted it.
+* The review committee will vote and will select the top winners. Those winners will be awarded scholarships.
+
+### Instructions
+
+Everything you need to know is in this document.
+
+This is all the information that is available. Read and click everything. It is not permitted to email me or anyone else to ask any questions. Part of this process is one's ability to interpret and to follow directions.
+
+As a successful Data Scientist, you should be able to provide a project analysis without any supervision or with minimal supervision. Creativity is the key!
+
+You must determine how best to use the datasets to tell your story. You will determine how to clean, prepare, analyze, explore, and tell your story. The project provides students with the opportunity to go "above and beyond" and exceeds the expectations.
+
+### Goals and Objectives
+
+The goal of the mini-project is to create a story about this dataset using as many Data Vizes as possible. Your story must be online along with your visualizations, etc.
+
+You will submit your mini-project as a URL.
+
+Hint: This is a *mini-Data Viz-Project* . Therefore, please do not include 100 pages of analysis. Make it more visual.
+
+Again, this process is competitive and anonymous. You will be competing against each other. The best stories combined with the best application responses will win. This is individual. If submissions are too similar they will be removed and disqualified.
+
+Again, It is not possible to email questions, to ask questions, to resubmit, to upload twice, or to be late.
+
+There are no further requirements or instructions. You have the data. Your goal is to create an amazing story.
+
+Visualization and interactive visualization are always a critical part of any story. Evaluation will include: Look, Feel, Usefulness, Creativity, Interest, Flow, Clarity, Navigation, Writing & Grammar, Information Communication, Valuable Conclusions, Introduction, Uniqueness, etc.
+
+GOOD LUCK!
+
+Best,
+
+Director Purna
