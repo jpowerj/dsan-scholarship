@@ -3,6 +3,7 @@ title: "Analyzing Climate Change Impact on Vegetation Dynamics in the Four Corne
 subtitle: "DSAN Scholarship Competition 2024: Data Visualization Project"
 author: "DSAN Full-Time Faculty"
 date: "May 9, 2024"
+date-format: full
 tbl-cap-location: top
 format:
   html:
