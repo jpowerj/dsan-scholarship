@@ -13,7 +13,7 @@ We are happy to inform you that we will be awarding scholarships to returning st
 
 ### Due Date
 
-* The deadline to submit all required materials via the form is **Thursday, May 16th, 11:59pm EDT**.
+* The deadline to submit all required materials via the form is **{{< var due-date >}}**.
 * It is not possible to be late or to resubmit. It will not be possible to edit a submission. It is not possible to ask questions from anyone.
 
 ::: {.callout-warning title="LLMs and Generative AI Policy"}

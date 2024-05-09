@@ -2,7 +2,7 @@
 title: "Analyzing Climate Change Impact on Vegetation Dynamics in the Four Corners Region"
 subtitle: "DSAN Scholarship Competition 2024: Data Visualization Project"
 author: "DSAN Full-Time Faculty"
-date: 2024-05-09
+date: "May 9, 2024"
 tbl-cap-location: top
 format:
   html:

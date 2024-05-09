@@ -2,7 +2,7 @@
 title: "2024 DSAN Scholarship Competition"
 subtitle: "Climate Change Data Visualization Project"
 author: "DSAN Full-Time Faculty"
-date: 2024-05-09
+date: "May 9, 2024"
 format:
   pdf:
     df-print: kable

@@ -1,6 +1,6 @@
 ---
 title: "DSAN Scholarship 2024"
-date: 2024-05-09
+date: "May 9, 2024"
 format:
   html:
     df-print: kable
