@@ -5,9 +5,9 @@ author: "DSAN Full-Time Faculty"
 date: 2024-05-09
 tbl-cap-location: top
 format:
-  # html:
-  #   df-print: kable
-  #   html-math-method: mathjax
+  html:
+    df-print: kable
+    html-math-method: mathjax
   pdf:
     output-file: "DSAN_Visualization_Project_2024.pdf"
     # documentclass: article

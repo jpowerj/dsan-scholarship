@@ -14,6 +14,8 @@ website:
       #   href: index.qmd
       # - text: "Project Details"
       #   href: project.qmd
+      - text: "Data Description"
+        href: "data-description.qmd"
       - text: "Resources (GDrive) <i class='bi bi-box-arrow-up-right ps-1'></i>"
         href: "./drive.html"
         target: "_blank"

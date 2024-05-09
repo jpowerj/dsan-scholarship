@@ -16,5 +16,9 @@
   "scholarship.qmd": {
     "scholarship.html": "f18f2c7d",
     "scholarship.tex": "8a657c22"
+  },
+  "data-description.qmd": {
+    "data-description.tex": "b56b10f9",
+    "data-description.html": "bf6cff57"
   }
 }
